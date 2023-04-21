@@ -1,0 +1,1 @@
+< IllegalSymbol.jack, 2, Error: illegal symbol in source file, ERR >

@@ -1,0 +1,1 @@
+< EofInStr.jack, 2, Error: unexpected eof in string constant, ERR >
